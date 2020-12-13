@@ -1,3 +1,10 @@
+# FireChat: 
+A real time chat application created with React and Firebase with Authentication via Google SignIn.
+
+You can check live demo here: https://hopeful-beaver-c7ad53.netlify.app/
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
